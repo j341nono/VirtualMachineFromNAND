@@ -1,1 +1,4 @@
-# ViVirtualMachineFromNAND
+
+```bash
+./tests/test.sh
+```
