@@ -1,0 +1,4 @@
+
+```bash
+./tests/test.sh
+```
